@@ -10,18 +10,18 @@ I love exploring new technologies and building projects that solve real-world pr
 
 ## 💻 Technologies & Tools
 
-- Programming Languages: Java, JavaScript
-- Front-End: HTML, CSS, React.js
-- Back-End: Node.js, Express.js
-- Databases: MySQL, MongoDB
+- Programming Languages: Java
+- Front-End: HTML, CSS, JavaScript
+- Back-End: 
+- Databases: MySQL
 - Version Control: Git
-- IDE: IntelliJ IDEA, Visual Studio Code
+- IDE: Visual Studio Code, Apache NetBeans
 
 ## 🌱 I’m Currently Learning
 
 I am continuously expanding my knowledge and skillset. Some of the things I'm currently learning or working on include:
 
-- Advanced React.js concepts
+- Frameworks like spring boot, hibernate
 - RESTful API development
 - Data structures and algorithms
 
