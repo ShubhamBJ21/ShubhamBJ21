@@ -25,6 +25,8 @@ I am continuously expanding my knowledge and skillset. Some of the things I'm cu
 - RESTful API development
 - Data structures and algorithms
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamBJ21)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 How to Reach Me
 
 You can reach out to me via(shubhamjadhav21022002@gmail.com).
