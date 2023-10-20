@@ -28,7 +28,7 @@ I am continuously expanding my knowledge and skillset. Some of the things I'm cu
 
 ## 📫 How to Reach Me
 
-You can reach out to me via(shubhamjadhav21022002@gmail.com).
+You can reach out to me via(sbjadhav.104@gmail.com).
 
 Let's connect and collaborate on exciting projects together! 😄
 
