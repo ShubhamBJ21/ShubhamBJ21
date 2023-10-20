@@ -1,8 +1,5 @@
 # Hi there, I'm [Shubham Jadhav] 👋
 
-(www.linkedin.com/in/shubham-jadhav-325baa265)
-(https://github.com/ShubhamBJ21/ShubhamBJ21)
-
 ## 🚀 About Me
 
 I'm a passionate and motivated software developer, currently pursuing my degree in [Computer Engineering] at [Savitribai Phule University]. My primary areas of interest are Core Java and Full Stack Development.
